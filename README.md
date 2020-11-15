@@ -4,7 +4,7 @@
 Pewlett Hackard is a large multi-national company that is preparing for a large exodus of employees from the Baby Boomer generation.  Using corporate personnel information, PH wants to determine the number of imminent retirements and the number of positions that will need to be filled.  
 
 ## Data Sources
-Data was provided in the following 6 tables and copies maintained int the Girhub Data Folder:
+Data was provided in the following 6 tables and copies maintained int the Gitub ![Data Folder](Data/).
 * departments.csv
 * dept_emp.csv
 * dept_manager.csv
