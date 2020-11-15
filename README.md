@@ -1,14 +1,18 @@
 # Pewlett Hackard Analysis
 
 ## Purpose
-Pewlett Hackard is a large multi-national company that is preparing for a large exodus of employees from the Baby Boomer generation.  
+Pewlett Hackard is a large multi-national company that is preparing for a large exodus of employees from the Baby Boomer generation.  Using corporate personnel information, PH wants to determine the number of imminent retirements and the number of positions that will need to be filled.  
 
 ## Data Sources
-Data was provided in the following 2 files:
-* city_data.csv -- provides data specific to cities of operation, including: city, driver count and city type (urban, suburban or rural).
-* ride_data.csv -- provides data specific to each individual ride transaction over time, including: city, date, fare and a unique ride identification number.  
+Data was provided in the following 6 tables and copies maintained int the Girhub Data Folder:
+* departments.csv
+* dept_emp.csv
+* dept_manager.csv
+* employees.csv
+* salaries.csv
+* titles.csv
 
-These files are located in the attached Resources folder. The data was merged into a single dataframe for analysis.  
+
 
 ## Methodology
 The data was analyzed using Python code within Jupyter Notebook.  The code incorporated both Pandas and matplotlib.pyplot.  
