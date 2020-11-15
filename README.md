@@ -1,7 +1,7 @@
-# Pewlett-Hackard-Analysis
+# Pewlett Hackard Analysis
 
 ## Purpose
-Pyber is a ride sharing company that has collected considerable data regarding their service over time.  The purpose of this project is to provide exploratory analysis on the captured data in order to determine trends and correlations.  
+Pewlett Hackard is a large multi-national company that is preparing for a large exodus of employees from the Baby Boomer generation.  
 
 ## Data Sources
 Data was provided in the following 2 files:
