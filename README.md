@@ -12,15 +12,16 @@ Data was provided in the following 6 tables and copies maintained int the Gitub 
 * salaries.csv
 * titles.csv
 
-
-
 ## Methodology
-The data was analyzed using Python code within Jupyter Notebook.  The code incorporated both Pandas and matplotlib.pyplot.  
+To produce the required data, the following steps were taken:
+* Design an Entity Relations Diagram using ![QuickDBD](https://app.quickdatabasediagrams.com/#/)
+* Create and use SQL database.
+* Import and export large CSV datasets into pgAdmin.
 
 ## Deliverables 
-1. A ride-sharing summary DataFrame by city type
-2. A multiple-line chart of total fares for each city type
-3. A written report for the PyBer analysis (README.md)
+1. Determine the number of retiring employees by title.   
+2. Determine the employees eligible for the Mentorship program.  
+3. Provide a written report on the employee database analysis.  
 
 ## Discussion
 * Figure 1 provides a composite look at Pyber's ride-sharing business in 2019.  As known, the larger cities (relative driver count per city depicted by marker size) shouldered the ride volume.  However, driven down by competition, fares were significantly lower in high volume areas.  
