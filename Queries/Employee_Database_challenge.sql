@@ -71,3 +71,14 @@ FROM dept_emp AS de
         ON (de.emp_no = e.emp_no)
 WHERE (de.to_date = '9999-01-01')
 ORDER BY de.emp_no;
+
+
+
+--********My Additional Query 2: Eleigible for Mentorship by Title
+SELECT COUNT(emp_no), 
+	me.title
+INTO mentorship_by_titles
+FROM mentorship_eligibility as me
+GROUP BY me.title
+ORDER BY me.count DESC;
+
