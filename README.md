@@ -24,7 +24,9 @@ To produce the required data, the following steps were taken:
 3. Provide a written report on the employee database analysis.  
 
 ## Results
-* The queries for this project are compiled and saved in the GitHub ![Queries Folder](Queries/).
+* The queries for this project are compiled and saved within the GitHub ![Queries Folder](Queries/).
+* The resultant project query outputs are compiled and saved within the GitHub ![Data Folder](Data/).
+*
 
 * Table 1
 
@@ -59,9 +61,15 @@ To produce the required data, the following steps were taken:
 <br>
 <br>
 <br>
-![Table 1](analysis/Ride_Sharing_Summary_by_city.PNG)
+![Table 2](Pewlett-Hackard-Analysis/mentorship_by_titles.PNG)
 <br>
-**Table. 1: Ride Sharing Summary by City Type**
+**Table 2: Eligible for Mentorship by Title**
+<br>
+<br>
+<br>
+![Figure 2](Pewlett-Hackard-Analysis/Age_Distribution.PNG)
+<br>
+**Fig. 2: Eligible for Mentorship by Title**
 
 
 
