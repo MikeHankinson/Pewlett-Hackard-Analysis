@@ -4,7 +4,7 @@
 Pewlett Hackard is a large multi-national company that is preparing for a large exodus of employees from the Baby Boomer generation.  Using corporate personnel information, PH wants to determine the number of imminent retirements and the number of positions that will need to be filled.  
 
 ## Data Sources
-Data was provided in the following 6 tables and copies maintained int the GitHub ![Data Folder](Data/).
+Data was provided in the following 6 tables and copies maintained in the GitHub ![Data Folder](Data/).
 * departments.csv
 * dept_emp.csv
 * dept_manager.csv
@@ -14,7 +14,7 @@ Data was provided in the following 6 tables and copies maintained int the GitHub
 
 ## Methodology
 To produce the required data, the following steps were taken:
-* Design an Entity Relations Diagram using ![QuickDBD](https://app.quickdatabasediagrams.com/#/)
+* Design an Entity Relations Diagram using ![QuickDBD](https://app.quickdatabasediagrams.com/#/) as shown in Figure 1.  
 * Create and use SQL database.
 * Import and export large CSV datasets into pgAdmin.
 
@@ -26,23 +26,16 @@ To produce the required data, the following steps were taken:
 ## Results
 * The queries for this project are compiled and saved within the GitHub ![Queries Folder](Queries/).
 * The resultant project query outputs are compiled and saved within the GitHub ![Data Folder](Data/).
-*
-
-* Table 1
-
-* 
-
-* 
+* Table 1 provides the results to the number of employees retiring by title.  Future losses will be felt most in the areas of Senior Engineer and Senior Staff.  
+* A total of 90,398 employees are eligible for retirement soon.  Of which, 64% are in the Senior Engineer and Senior Staff job buckets.  
+* Employees eligible for mentorship, provided in Table 2, as a percentage, align with data provided in Table 1.  Ff the 1,549 employees eligible for mentorship, 55%  are in the Senior Engineer and Senior Staff job buckets.
   
 ## Summary
-* Table 1
-
-* 
-
-* 
-
-* 
-  
+* PH must implement a strategy to develop talent in key leadership roles (Senior Engineer and Senior Staff).  
+* Figure 2 sheds light into the age distribution within PH.  All current employees are age 50 or older. 
+* Nearly 40% of PH's current workforce will be eligible for retirement in the coming years.  
+* PH must agressively hire and train younger employees to fill the upcomming talent void with the upcomming wave of Baby Boomers retiring.  
+* PH must develop a strategy to attract and maintain a younger workforce in order to maintain its prescence in the market.  
 
 ----------------------------------------------------------------------------------
 ### Appendix of Figures and Tables
@@ -75,7 +68,7 @@ To produce the required data, the following steps were taken:
 <br>
 ![Figure 2](Pewlett-Hackard-Analysis/Age_Distribution.PNG)
 <br>
-**Fig. 2: Eligible for Mentorship by Title**
+**Fig. 2: Company Age Distribution**
 
 
 
