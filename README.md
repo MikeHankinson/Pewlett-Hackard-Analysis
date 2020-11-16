@@ -24,9 +24,9 @@ To produce the required data, the following steps were taken:
 3. Provide a written report on the employee database analysis.  
 
 ## Results
-* Table 1
+* The queries for this project are compiled and saved in the GitHub ![Queries Folder](Queries/).
 
-* 
+* Table 1
 
 * 
 
