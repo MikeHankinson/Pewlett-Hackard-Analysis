@@ -4,7 +4,7 @@
 Pewlett Hackard is a large multi-national company that is preparing for a large exodus of employees from the Baby Boomer generation.  Using corporate personnel information, PH wants to determine the number of imminent retirements and the number of positions that will need to be filled.  
 
 ## Data Sources
-Data was provided in the following 6 tables and copies maintained int the Gitub ![Data Folder](Data/).
+Data was provided in the following 6 tables and copies maintained int the GitHub ![Data Folder](Data/).
 * departments.csv
 * dept_emp.csv
 * dept_manager.csv
@@ -23,29 +23,33 @@ To produce the required data, the following steps were taken:
 2. Determine the employees eligible for the Mentorship program.  
 3. Provide a written report on the employee database analysis.  
 
-## Discussion
-* Figure 1 provides a composite look at Pyber's ride-sharing business in 2019.  As known, the larger cities (relative driver count per city depicted by marker size) shouldered the ride volume.  However, driven down by competition, fares were significantly lower in high volume areas.  
+## Results
+* Table 1
 
-* Table 1 provides a summary of the ride sharing business by city type.  Specific items of note include the following:
-  * 63% of gross revenue from urban markets with 30% from suburban areas and the balance, rural.    
-  * Rural drivers accounted for 2.6% of the total driver workforce yet brought in nearly 7% of revenue.  
-  * Average fare per driver in rural areas was 335% that of urban drivers.  While suburban drivers were 238% that of their urban counter parts. 
- 
- * Figure 2 further demonstrates the disparity in gross revenue between city types over time.  For each, there was monthly fluctuations, yet little movement in trend.  
+* 
+
+* 
+
+* 
   
-## Recommendations 
-* With potential saturation in the urban markets, focus on development of suburban and rural businesses.  
-* Entice rural customer growth with short-term discounted prices or provide loyalty discounts for repeat riders. 
-* Provide additional resources (drivers) in potential growth markets (rural and suburban).  
+## Summary
+* Table 1
+
+* 
+
+* 
+
+* 
+  
 
 ----------------------------------------------------------------------------------
 ### Appendix of Figures and Tables
 ----------------------------------------------------------------------------------
 
-![Fig_1](analysis/Fig1.png)
+![Table 1: Retirement_by_Title](Pewlett-Hackard-Analysis/retiring_by_titles.PNG)
 <br>
 <br>
-**Fig. 1:  Ride Sharing - A Composite Look**
+**Table 1: Retirement by Title**
 <br>
 <br>
 <br>
