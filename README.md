@@ -45,7 +45,13 @@ To produce the required data, the following steps were taken:
 ----------------------------------------------------------------------------------
 ### Appendix of Figures and Tables
 ----------------------------------------------------------------------------------
-
+![Fig1](Pewlett-Hackard-Analysis/EmployeeDB.png)
+<br>
+<br>
+**Fig. 1:  Entity Relations Diagram**
+<br>
+<br>
+<br>
 ![Table 1: Retirement_by_Title](Pewlett-Hackard-Analysis/retiring_by_titles.PNG)
 <br>
 <br>
@@ -53,13 +59,13 @@ To produce the required data, the following steps were taken:
 <br>
 <br>
 <br>
-![Fig_2](analysis/PyBer_fare_summary.png)
-<br>
-<br>
-**Fig. 2:  Fares Through Time**
-<br>
-<br>
-<br>
 ![Table 1](analysis/Ride_Sharing_Summary_by_city.PNG)
 <br>
 **Table. 1: Ride Sharing Summary by City Type**
+
+
+
+
+
+
+
