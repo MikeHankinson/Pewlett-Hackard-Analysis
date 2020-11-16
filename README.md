@@ -28,13 +28,13 @@ To produce the required data, the following steps were taken:
 * The resultant project query outputs are compiled and saved within the GitHub ![Data Folder](Data/).
 * Table 1 provides the results to the number of employees retiring by title.  Future losses will be felt most in the areas of Senior Engineer and Senior Staff.  
 * A total of 90,398 employees are eligible for retirement soon.  Of which, 64% are in the Senior Engineer and Senior Staff job buckets.  
-* Employees eligible for mentorship, provided in Table 2, as a percentage, align with data provided in Table 1.  Ff the 1,549 employees eligible for mentorship, 55%  are in the Senior Engineer and Senior Staff job buckets.
+* Employees eligible for mentorship, provided in Table 2, as a percentage, align with data provided in Table 1.  Of the 1,549 employees eligible for mentorship, 55%  are in the Senior Engineer and Senior Staff job buckets.
   
 ## Summary
 * PH must implement a strategy to develop talent in key leadership roles (Senior Engineer and Senior Staff).  
 * Figure 2 sheds light into the age distribution within PH.  All current employees are age 50 or older. 
 * Nearly 40% of PH's current workforce will be eligible for retirement in the coming years.  
-* PH must agressively hire and train younger employees to fill the upcomming talent void with the upcomming wave of Baby Boomers retiring.  
+* PH must agressively hire and train younger employees to fill the upcomming talent void.
 * PH must develop a strategy to attract and maintain a younger workforce in order to maintain its prescence in the market.  
 
 ----------------------------------------------------------------------------------
