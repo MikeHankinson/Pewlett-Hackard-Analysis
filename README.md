@@ -54,6 +54,8 @@ To produce the required data, the following steps were taken:
 <br>
 <br>
 <br>
+<br>
+<br>
 ![Table 1: Retirement_by_Title](Pewlett-Hackard-Analysis/retiring_by_titles.PNG)
 <br>
 <br>
@@ -61,9 +63,13 @@ To produce the required data, the following steps were taken:
 <br>
 <br>
 <br>
+<br>
+<br>
 ![Table 2](Pewlett-Hackard-Analysis/mentorship_by_titles.PNG)
 <br>
 **Table 2: Eligible for Mentorship by Title**
+<br>
+<br>
 <br>
 <br>
 <br>
