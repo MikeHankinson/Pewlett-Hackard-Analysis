@@ -56,3 +56,18 @@ FROM employees AS e
 WHERE (birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 AND (de.to_date = '9999-01-01')
 ORDER BY titles.emp_no;
+
+
+
+--********My Additional Query: Age distribution of all current employees
+SELECT DISTINCT ON (de.emp_no) de.emp_no,
+	e.first_name,
+	e.last_name,
+	e.birth_date,
+	de.to_date
+INTO age_distribution
+FROM dept_emp AS de
+    INNER JOIN employees AS e
+        ON (de.emp_no = e.emp_no)
+WHERE (de.to_date = '9999-01-01')
+ORDER BY de.emp_no;
